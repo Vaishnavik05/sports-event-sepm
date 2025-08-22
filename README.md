@@ -1,4 +1,4 @@
-#🏆 **Sports Event Management System**
+# 🏆 Sports Event Management System
 
 A Full-Stack Web Application designed to simplify the management of sports events and student participation in athletic activities. This centralized platform streamlines the process of event registration, scheduling, participation tracking, and results management—making it easy for both administrators and students to stay engaged in campus sports.
 
